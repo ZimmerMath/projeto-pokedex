@@ -1,0 +1,9 @@
+*{
+    margin: 0;   /* O comando margin define a margem ao redor do elemento */
+    padding: 0;   /* O comando padding define o preenchimento interno do elemento */
+    box-sizing: border-box;   /* O comando box-sizing define como o tamanho total de um elemento é calculado */
+}
+
+ul{
+    list-style: none;   /* O comando list-style remove os estilos padrão das listas */
+}
